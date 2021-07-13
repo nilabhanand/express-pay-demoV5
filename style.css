@@ -105,7 +105,7 @@
 }
 
 .progressDotsCssClass{
-    background-color: #d6d0d02a;
+    background-color: #0b2f5d2a;
     border: none;
     color: black;
     display: inline-block;
@@ -117,7 +117,7 @@
 }
 
 .progressDotsCssClassActive{
-    background-color: #f58738;
+    background-color: #0b2f5d;
     border: none;
     color: black;
     display: inline-block;
