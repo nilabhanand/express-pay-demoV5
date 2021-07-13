@@ -103,3 +103,27 @@
     width: 100%;
     text-align: center;
 }
+
+.progressDotsCssClass{
+    background-color: #d6d0d02a;
+    border: none;
+    color: black;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    height:25px;
+    width:25px;
+}
+
+.progressDotsCssClassActive{
+    background-color: #f58738;
+    border: none;
+    color: black;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    height:25px;
+    width:25px;
+}
