@@ -1,14 +1,14 @@
 .main {
-    background: linear-gradient(180deg, #dbb812 60%, #df4714);
+    background: linear-gradient(180deg, #f3e020 60%, #d1760d);
     color: white;
     font-weight: 400;
-    height: 900px !important;
+    height: 600px;
     min-width: 300px;
     align-items: center;
 }
 
 .walletCardCssClass {
-  background: linear-gradient(236deg, #5D0DB6 25%, #D10E9E);
+  background: linear-gradient(236deg, #150db6 25%, #D10E9E);
   width: 70%;
   height: 150px;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
